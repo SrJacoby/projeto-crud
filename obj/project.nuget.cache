@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjNk0m9w4Zw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Augusto\\Documents\\estudos\\c#\\projeto-crud\\projeto-crud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Augusto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Luiz Augusto\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
