@@ -31,3 +31,7 @@ C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\obj\Debug\net9.0\refint\
 C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\obj\Debug\net9.0\projeto-crud.pdb
 C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\obj\Debug\net9.0\projeto-crud.genruntimeconfig.cache
 C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\obj\Debug\net9.0\ref\projeto-crud.dll
+C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\obj\Debug\net9.0\projeto-crud.sourcelink.json
+C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Luiz Augusto\Documents\estudos\c#\projeto-crud\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

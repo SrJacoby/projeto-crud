@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Models",
+    "\\Routes"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\Routes\\CrudRoute.cs",
   "PreviewInSolutionExplorer": false
 }
